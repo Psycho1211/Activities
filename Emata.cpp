@@ -33,7 +33,7 @@ Kap balita ko patay ka na raw
 
 
 
-
+Programmer Name: Moises Emata
 )" << '\n';
         system("pause");
        
